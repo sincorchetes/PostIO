@@ -1,0 +1,17 @@
+This project is licensed over GPLv2.
+URL -> http://github.com/netSys0/PostIO
+
+Some icons such as ok.png, remove.png, edit.png and find.png is licensed over GPLv2+ of Mate Faenza Icons:
+URL -> http://mate-desktop.org
+
+Comfortaa fonts is licensed over OFL
+URL -> http://aajohan.deviantart.com
+
+Socialmedia icons is feel 'free license'.
+URL -> http://cosdesign.blogspot.com.es/2013/02/free-gray-social-media-icons.html
+
+Datepicker get right of jQuery license
+URL -> http://jqueryui.com/datepicker/
+
+TinyMCE get right of LGPL
+URL -> http://www.tinymce.com/
